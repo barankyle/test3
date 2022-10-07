@@ -1,10 +1,10 @@
 {
   "name": "test7",
-  "version": "1.12.2",
+  "version": "0.0.0",
   "description": "",
   "main": "",
   "etherealEngine": {
-    "version": "1.0.0-rc2"
+    "version": "1.0.0-rc1"
   },
   "scripts": {
     "test": "mocha --config .mocharc.js"
